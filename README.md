@@ -1,7 +1,7 @@
 # PathFinding-Visualizer
 
-# Algorithms Implemented
-Breadth First Search(BFS)
-Dijkstra's Algorithm
-A* Algorithm
-Jump Point Search Algorithm
+## Algorithms Implemented<br>
+Breadth First Search(BFS)<br>
+Dijkstra's Algorithm<br>
+A* Algorithm<br>
+Jump Point Search Algorithm<br>
